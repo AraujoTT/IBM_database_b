@@ -1,3 +1,6 @@
+
+-- Creando tabela com a formataçao desejada de colunas organizada 
+-- por nome tipo
 CREATE TABLE tabelaclientes (
     ID_Cliente INT PRIMARY KEY,
     Nome_Cliente VARCHAR (250),
