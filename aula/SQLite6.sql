@@ -26,4 +26,3 @@ INSERT INTO tabelapedidosgold (
     WHERE Total_do_Pedido >= 400;
 
 
-
