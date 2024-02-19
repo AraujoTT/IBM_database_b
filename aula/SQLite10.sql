@@ -1,0 +1,1 @@
+SELECT Informacoes_de_Contato AS email_cliente FROM tabelaclientes;
